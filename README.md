@@ -1,1 +1,4 @@
-# lab_rab_1_2
+# TSN_JavaSE_Lab02
+Создание простейшей визуальной программы на JAVA
+
+![srcreenshot](screenshot.jpg)
